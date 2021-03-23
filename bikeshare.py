@@ -129,7 +129,7 @@ def time_stats(df):
     print('\nCalculating The Most Frequent Times of Travel...\n')
     start_time = time.time()
 
-    #Uses mode method to find the most popular month
+    #Find the most popular month using the mode method
     popular_month = df['month'].mode()[0]
 
     print(f"Most Popular Month (1 = January,...,6 = June): {popular_month}")
