@@ -9,6 +9,8 @@ Udacity bikeshare project
 ### Description
 The project uses Python to understand U.S. bikeshare data in three cities (chicago, new york city, washington). It calculate statistics and build an interactive environment where a user chooses and filter for a dataset to analyze.
 
+This project focuses on pandas and numpy library usage and simple statistics methods to perform a rudimentary analysis on the bikeshare data from three major U.S. cities - Chicago, Washington, and New York City - to display information such as most popular days or most common stations.
+
 ### Files used
 Files used in the project: 
 bikeshare.py
@@ -17,6 +19,9 @@ new_york_city.csv
 washington.csv
 
 ### Credits
- https://www.kaggle.com/deepak525/us-bike-share-analysis
- https://github.com/synflyn28/udacity-bikeshare/commit/8315b70c16b89ee8934ca2eb178ddd589344b450
+https://www.kaggle.com/deepak525/us-bike-share-analysis
+https://github.com/synflyn28/udacity-bikeshare/commit/8315b70c16b89ee8934ca2eb178ddd589344b450
+ 
+https://github.com/richardkalehoff
+https://twitter.com/richardkalehoff
 
