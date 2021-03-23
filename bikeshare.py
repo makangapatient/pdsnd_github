@@ -8,7 +8,7 @@ CITY_DATA = { 'chicago': './chicago.csv', 'Chicago': './chicago.csv',
               'new york city': './new_york_city.csv', 'washington': './washington.csv',
              'Washington': './washington.csv' }
 
-#Function to figure out the filtering requirements of the user
+#Function to filter user requirements
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
