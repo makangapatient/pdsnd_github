@@ -23,5 +23,5 @@ https://www.kaggle.com/deepak525/us-bike-share-analysis
 https://github.com/synflyn28/udacity-bikeshare/commit/8315b70c16b89ee8934ca2eb178ddd589344b450
  
 https://github.com/richardkalehoff
-https://twitter.com/richardkalehoff
+ 
 
