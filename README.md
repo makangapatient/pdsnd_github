@@ -63,6 +63,34 @@ This project focuses on pandas and numpy library usage and simple statistics met
 
    - Gender
    - Birth Year
+  
+ ### Statistics Computed
+ The code helps user to tell about bike share use in Chicago, New York City and Washington by computing a variety of descriptive statistics. 
+ In this project, the code output will provide the following information:
+
+ Popular times of travel (i.e., occurs most often in the start time):
+
+   - most common month
+   - most common day of week
+   - most common hour of day
+   
+Popular stations and trip:
+
+   - most common start station
+   - most common end station
+   
+most common trip from start to end (i.e., most frequent combination of start station and end station)
+ Trip duration:
+
+  - total travel time
+  - average travel time
+  
+User info:
+
+  - counts of each user type
+  - counts of each gender (only available for NYC and Chicago)
+  - earliest, most recent, most common year of birth (only available for NYC and Chicago)
+  
 
 ## Credits
 - https://www.kaggle.com/deepak525/us-bike-share-analysis
