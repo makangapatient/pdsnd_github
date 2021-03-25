@@ -24,6 +24,11 @@ This project focuses on pandas and numpy library usage and simple statistics met
 - A text editor, like VS Code, Atom or Notepad++.
 - A terminal application (Terminal on Mac and Linux or Cygwin on Windows and Git bash).
 
+## Installation links for softwares
+- [Git for windows - for terminal application using Git Bash](https://gitforwindows.org/)
+- [Python using Anaconda (latest version for windows)](https://www.anaconda.com/products/individual)
+- [Visual Studio Code Editor (for windows)](https://code.visualstudio.com/docs/setup/windows)
+
 
 ## Credits
 - https://www.kaggle.com/deepak525/us-bike-share-analysis
