@@ -29,6 +29,11 @@ This project focuses on pandas and numpy library usage and simple statistics met
 - [Python using Anaconda (latest version for windows)](https://www.anaconda.com/products/individual)
 - [Visual Studio Code Editor (for windows)](https://code.visualstudio.com/docs/setup/windows)
 
+## Links for software tutorials:
+- [Git - Reference](https://git-scm.com/docs)
+- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+- [VS Code Documentation](https://code.visualstudio.com/docs)
+
 
 ## Credits
 - https://www.kaggle.com/deepak525/us-bike-share-analysis
